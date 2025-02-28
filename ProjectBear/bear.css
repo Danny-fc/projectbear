@@ -1,0 +1,61 @@
+body {
+    background-color: #f5f5dc; /* A friendly beige color */
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #2f4f4f; /* Dark Slate Gray */
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+h3 {
+    font-size: 24px;
+    text-align: left;
+    margin-left: 20px;
+    color: #4b5320; /* Army Green */
+}
+
+p {
+    font-size: 16px;
+    text-align: left;
+    margin-left: 20px;
+    color: #4b5320; /* Army Green */
+    margin-bottom: 20px;
+}
+
+ul {
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+    color: #4b5320; /* Army Green */
+}
+
+strong {
+    color: #2f4f4f; /* Dark Slate Gray */
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    max-width: 90%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+figcaption {
+    text-align: center;
+    font-style: italic;
+    color: #2f4f4f; /* Dark Slate Gray */
+    margin-top: 10px;
+}
